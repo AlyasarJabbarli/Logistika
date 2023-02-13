@@ -1,0 +1,1 @@
+export const MAIN_URL = 'https://logistica.celt.network/public/api'
